@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamsmriti2003@gmail.com**
 
-- ⚡ Fun fact **“Knock, knock … Who’s there? … *very long pause* … Developer.”**
+- ⚡ Fun fact **“I will not be impressed with technology until I can download food from the internet!😂”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
