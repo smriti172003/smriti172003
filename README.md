@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **Thapar,Patiala**
 
-- 🌱 I’m currently learning **Frameworks(React,Express.js), Algorithms**
+- 🌱 I’m currently learning **Frameworks like React , Express.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Techy Projects**
 
