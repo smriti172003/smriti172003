@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks like React , Express.js, Node.js**
 
-- 👯 I’m looking to collaborate on **Techy Projects**
+- 👯 I’m looking to collaborate on **Web_dev Projects**
 
 - 📫 How to reach me **iamsmriti2003@gmail.com**
 
