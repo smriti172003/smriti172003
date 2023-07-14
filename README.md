@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti172003&label=Profile%20views&color=0e75b6&style=flat" alt="smriti172003" /> </p>
 
-
+- 🧥  I’m currently studing in **Thapar Institute of Engineering and Technology ,Patiala**
 - 🌱 I’m currently learning **Frameworks like React , Express.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Web_dev Projects**
