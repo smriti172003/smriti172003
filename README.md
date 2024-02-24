@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Smriti!</h1>
+<h1 align="center">Hi, I'm Smriti!🙋‍♀️</h1>
 <h3 align="center">I'm a CSE undergrad from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.21kschool.com/blog/wp-content/uploads/2023/04/Girls-coding-myth.png">
 
