@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects and ML Stuff**
 
-- 📫 How to reach me **iamsmriti2003@gmail.com**
+- 📫 How to reach me **iamsmriti2003@gmail.com **
 
 - ⚡ Fun fact **“I will not be impressed with technology until I can download food from the internet!😂”**
 
