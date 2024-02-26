@@ -7,7 +7,7 @@
 - 🧥  I’m currently studing in **Thapar Institute of Engineering and Technology ,Patiala**
 - 🌱 I’m currently learning **Frameworks like React , Express.js, Node.js**
 
-- 👯 I’m looking to collaborate on **Web_dev Projects**
+- 👯 I’m looking to collaborate on **Web Projects and ML Stuff**
 
 - 📫 How to reach me **iamsmriti2003@gmail.com**
 
