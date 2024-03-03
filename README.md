@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Smriti!🙋‍♀️</h1>  
-<h3 align="center">I'm a CSE undergrad from India!</h3>
+<h3 align="center">I'm a CSE undergrad from India!</h3>   
 <img align="right" alt="Coding" width="400" src="https://www.21kschool.com/blog/wp-content/uploads/2023/04/Girls-coding-myth.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti172003&label=Profile%20views&color=0e75b6&style=flat" alt="smriti172003" /> </p>
